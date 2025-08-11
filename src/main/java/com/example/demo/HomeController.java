@@ -10,6 +10,6 @@ public class HomeController {
 	@ResponseBody
 	public String main() {
 		System.out.println("main handler 실행");
-		return "hello docker";
+		return "hello docker fucker";
 	}
 }
